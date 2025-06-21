@@ -1,1 +1,1 @@
-<source src="/video.mp4" type="video/mp4" />
+![](https://github.com/IamokDavid/tradingManager/blob/main/video.mp4)
